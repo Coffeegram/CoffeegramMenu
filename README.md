@@ -1,2 +1,2 @@
 # Coffeegram Menu
-# This github is used for Coffeegram Batam Menu only. FOr those who like to contribute please email me.
+# This github is used for Coffeegram Batam Menu only. For those who like to contribute please email me.
